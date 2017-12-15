@@ -7,6 +7,7 @@ import glob
 from instagram_scraper import InstagramScraper
 from instagram_scraper.constants import *
 
+
 class InstagramTests(unittest.TestCase):
 
     def setUp(self):
